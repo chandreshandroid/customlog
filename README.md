@@ -29,7 +29,7 @@ first you wnat add this in dependency. In app/build.gradle, add the following de
 	}
   
   
- after use simply this library like this
+ after use simply use library like this
  
   customLog.d("TestLog","StartActivity"); 
   
